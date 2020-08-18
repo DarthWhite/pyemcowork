@@ -1,2 +1,0 @@
-# pyemcowork
-proyecto pyem
